@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QGen-project version="4.0.0 beta 1">
+  <Structure>
+    <Location name="start"/>
+    <Location name="about"/>
+    <Location name="history"/>
+    <Location name="alert"/>
+    <Location name="end"/>
+    <Location name="phone"/>
+    <Location name="faq"/>
+    <Location name="settings"/>
+    <Location name="notebook"/>
+    <Location name="圖像收集"/>
+    <Location name="作品信息"/>
+    <Location name="npc"/>
+    <Location name="items"/>
+    <Location name="报刊新闻"/>
+    <Location name="六目町"/>
+    <Location name="涉谷区"/>
+    <Location name="公交车站"/>
+    <Location name="room_gg_sleep"/>
+    <Location name="room_gg_alarm_clock_set"/>
+    <Location name="room_gg_alarm_clock"/>
+    <Location name="prologue"/>
+    <Folder name="人物">
+      <Location name="info_gg"/>
+      <Location name="info"/>
+      <Location name="info_樱井夕树"/>
+      <Location name="call_antonina"/>
+    </Folder>
+    <Folder name="系统">
+      <Location name="gs_start_var"/>
+      <Location name="gs_sound_phone_call_false"/>
+      <Location name="gs_sound_phone_call_true"/>
+      <Location name="gs_phone_call_npc"/>
+      <Location name="gs_time_loc_home"/>
+      <Location name="gs_time_loc_city"/>
+      <Location name="gs_text_tired"/>
+      <Location name="gs_gg_sleep"/>
+      <Location name="gs_gg_sleep_ho_home"/>
+      <Location name="gs_gg_sleep_content"/>
+      <Location name="gs_buy_items"/>
+      <Location name="gs_kill_items"/>
+      <Location name="gs_auto_save"/>
+      <Location name="gs_wait"/>
+      <Location name="gs_check_photo"/>
+      <Location name="gs_check"/>
+      <Location name="gs_year"/>
+      <Location name="gs_month"/>
+      <Location name="gs_week"/>
+      <Location name="gs_day"/>
+      <Location name="gs_报刊系统"/>
+      <Location name="gs_hour"/>
+      <Location name="gs_inv_show_block_end"/>
+      <Location name="gs_inv_show_block"/>
+      <Location name="gs_inv_show"/>
+      <Location name="counter"/>
+      <Location name="time"/>
+      <Location name="gs_工作表现"/>
+    </Folder>
+    <Location name="README!!!"/>
+    <Folder name="实验">
+      <Location name="实验室"/>
+      <Location name="发行结算"/>
+    </Folder>
+    <Folder name="六目町">
+      <Location name="工坊"/>
+      <Location name="公寓"/>
+      <Location name="自己房间"/>
+      <Location name="杂货店"/>
+    </Folder>
+  </Structure>
+</QGen-project>
