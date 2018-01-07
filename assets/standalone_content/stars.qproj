@@ -19,32 +19,27 @@
     <Location name="涉谷区"/>
     <Location name="结局"/>
     <Location name="公交车站"/>
-    <Location name="room_gg_sleep"/>
-    <Location name="room_gg_alarm_clock_set"/>
-    <Location name="room_gg_alarm_clock"/>
     <Location name="prologue"/>
     <Folder name="人物">
       <Location name="info_gg"/>
       <Location name="info"/>
       <Location name="info_樱井夕树"/>
       <Location name="call_antonina"/>
+      <Location name="info_村上凉子"/>
+      <Location name="gs_check_photo"/>
+      <Location name="gs_start_var"/>
     </Folder>
     <Folder name="系统">
-      <Location name="gs_start_var"/>
       <Location name="gs_sound_phone_call_false"/>
       <Location name="gs_sound_phone_call_true"/>
       <Location name="gs_phone_call_npc"/>
       <Location name="gs_time_loc_home"/>
       <Location name="gs_time_loc_city"/>
       <Location name="gs_text_tired"/>
-      <Location name="gs_gg_sleep"/>
-      <Location name="gs_gg_sleep_ho_home"/>
-      <Location name="gs_gg_sleep_content"/>
       <Location name="gs_buy_items"/>
       <Location name="gs_kill_items"/>
       <Location name="gs_auto_save"/>
       <Location name="gs_wait"/>
-      <Location name="gs_check_photo"/>
       <Location name="gs_check"/>
       <Location name="gs_year"/>
       <Location name="gs_month"/>
@@ -58,6 +53,7 @@
       <Location name="counter"/>
       <Location name="time"/>
       <Location name="gs_工作表现"/>
+      <Location name="gs_睡觉状态"/>
     </Folder>
     <Location name="README!!!"/>
     <Folder name="实验">
