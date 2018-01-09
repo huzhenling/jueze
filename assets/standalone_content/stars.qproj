@@ -26,6 +26,7 @@
       <Location name="info_樱井夕树"/>
       <Location name="call_antonina"/>
       <Location name="info_村上凉子"/>
+      <Location name="info_美山蘭子"/>
       <Location name="gs_check_photo"/>
       <Location name="gs_start_var"/>
     </Folder>
@@ -45,7 +46,6 @@
       <Location name="gs_month"/>
       <Location name="gs_week"/>
       <Location name="gs_day"/>
-      <Location name="gs_报刊系统"/>
       <Location name="gs_hour"/>
       <Location name="gs_inv_show_block_end"/>
       <Location name="gs_inv_show_block"/>
@@ -65,6 +65,7 @@
       <Location name="公寓"/>
       <Location name="自己房间"/>
       <Location name="杂货店"/>
+      <Location name="美山餐厅"/>
     </Folder>
   </Structure>
 </QGen-project>
